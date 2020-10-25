@@ -1,5 +1,5 @@
-For starting the website
+Instruction steps:
 
-1) Run npm install. For installing all the needed packages.
+1) Type npm install. For installing all the needed packages.
 
-2)
+2) Type npm run dev. For starting the server service. 
